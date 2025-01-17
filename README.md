@@ -12,6 +12,9 @@
 
 **MENTOR NAME**: NEELA SANTHOSH KUMAR
 
+#OUTPUT OF THE TASK
+![Image](https://github.com/user-attachments/assets/51d2bd90-62ee-40e0-8a91-67481e0cb0a5)
+
 #TASK DESCRIPTION
 
 Task Description: Deep Learning Model Implementation
